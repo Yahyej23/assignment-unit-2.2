@@ -26,9 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+//  we made a varialbe called name and set it to a sring called Dane 
+//  if name vairable is equal to mary it will console log HI Mary
+//  If else it will display How do you do?
 //
 
 //CODE
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// created a varaiblre called secret with no assingation
+// Then  we created a varaiblre called code and set it to a number 123
+// if the variable code is equal to 123, secret equals super and code is equal to itself times 2
+// if code is less than 250, secret equals duper, then we console log secret.
 
 //CODE
 /*
@@ -70,10 +70,13 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We created a varaible isStudent and assigneed to boolean True 
+// We created a variable age and assigned it to Number 34 
+//  We also created another variable zip and assigned it to number 55407
+// If isStudent is true and Zip is less than 80000, we console log `You're a student on the West Coast!`
+// else isStudent is equal to false or age is less than 30 console log 'What are your hobbies?'
+// else if isStudent is true console log 'welcome to Prime'
+// else console log how about the weather?
 
 //CODE
 /*
@@ -134,9 +137,13 @@ let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
 
+// FIX - colorOne should be set to blue and colorTwo should be set to red. 
+
 if (mix === true) {
   colorOne = 'purple';
 }
+
+// FIX -  colorTwo should be included and also be set to purple.
 */
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
@@ -147,9 +154,12 @@ if (mix === true) {
 let temp = 40;
 const time = 4;
 
+
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
+
+// FIX -  || it should be and intstead of or. 
 */
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
